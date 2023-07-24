@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Judikordy
 - 👀 I’m interested in music
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Judikordy/Judikordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
